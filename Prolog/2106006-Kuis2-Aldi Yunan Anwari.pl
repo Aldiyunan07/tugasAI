@@ -11,6 +11,7 @@ anak(ida, andi).
 anak(ida, rita).
 anak(rudi,andi).
 anak(rudi, rita).
+
 putri(wati).
 putri(ita).
 putri(ida).
