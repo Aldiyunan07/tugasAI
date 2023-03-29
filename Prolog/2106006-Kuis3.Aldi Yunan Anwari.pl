@@ -9,6 +9,7 @@ anak(fahri,arfan).
 anak(salma, farhan).
 anak(ferdi, fariz).
 anak(ferdi,syifa).
+
 putra(bahrun).
 putra(fahri).
 putra(burhan).
@@ -16,6 +17,7 @@ putra(ferdi).
 putra(arfan).
 putra(farhan).
 putra(fariz).
+
 putri(farah).
 putri(salma).
 putri(salsa).
